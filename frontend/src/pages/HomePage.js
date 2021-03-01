@@ -1,12 +1,11 @@
 import React from 'react';
 
- const Homepage = ()=> {
+ const Homepage = () => {
 
-    
 
     return (
         <>
-            <h1>Welcome to my Node-React App!</h1>
+            <h1>This is currently a React app but will have the data coming through a NodeJS backend server with MongoDB as the database.  </h1>
         </>
     )
 }
